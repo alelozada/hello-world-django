@@ -18,6 +18,6 @@
 
     py app/manage.py startapp core
     
- 5. You can start the server with the next command
- 
-  py app/manage.py runserver
+5. You can start the server with the next command
+
+    py app/manage.py runserver
