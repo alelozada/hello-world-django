@@ -17,7 +17,7 @@
     
 4. Install dependencies from requirements.txt file
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
     
 5. Initialize the Django project
 
