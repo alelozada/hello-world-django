@@ -10,14 +10,23 @@
     add requests inside the file
     add the Django version inside the file (Django==3.2 for example)
     
-3. Initialize the Django project
+3. Open the virtual environment
+
+  - (Windows 11)
+    .venv/Scripts/activate
+    
+4. Install dependencies from requirements.txt file
+
+  pip install -r requirements.txt
+    
+5. Initialize the Django project
 
     django-admin startproject app
     
-4. Install the core in the projects
+6. Install the core in the projects
 
     py app/manage.py startapp core
     
-5. You can start the server with the next command
+7. You can start the server with the next command
 
     py app/manage.py runserver
